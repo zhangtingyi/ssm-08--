@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringMVCFileDownLoadDemo:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/SpringMVCFileDownLoadDemo_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SpringMVCFileDownLoadDemo" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="commons-fileupload-1.2.1.jar" module-name="SpringMVCFileDownLoadDemo" />
+          <element id="library" level="module" name="commons-io-1.4.jar" module-name="SpringMVCFileDownLoadDemo" />
+          <element id="library" level="module" name="commons-logging.jar" module-name="SpringMVCFileDownLoadDemo" />
+          <element id="library" level="module" name="spring-aop-4.2.4.RELEASE.jar" module-name="SpringMVCFileDownLoadDemo" />
+          <element id="library" level="module" name="spring-beans-4.2.4.RELEASE.jar" module-name="SpringMVCFileDownLoadDemo" />
+          <element id="library" level="module" name="spring-context-4.2.4.RELEASE.jar" module-name="SpringMVCFileDownLoadDemo" />
+          <element id="library" level="module" name="spring-core-4.2.4.RELEASE.jar" module-name="SpringMVCFileDownLoadDemo" />
+          <element id="library" level="module" name="spring-expression-4.2.4.RELEASE.jar" module-name="SpringMVCFileDownLoadDemo" />
+          <element id="library" level="module" name="spring-web-4.2.4.RELEASE.jar" module-name="SpringMVCFileDownLoadDemo" />
+          <element id="library" level="module" name="spring-webmvc-4.2.4.RELEASE.jar" module-name="SpringMVCFileDownLoadDemo" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="SpringMVCFileDownLoadDemo/web/Web" />
+    </root>
+  </artifact>
+</component>
